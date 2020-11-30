@@ -1,3 +1,0 @@
-#GitProjectData
-#Sun Oct 18 19:26:05 EDT 2020
-.gitdir=../.git

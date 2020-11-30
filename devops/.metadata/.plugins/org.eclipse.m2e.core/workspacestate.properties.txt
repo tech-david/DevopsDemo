@@ -1,4 +1,0 @@
-#Sun Oct 18 19:26:19 EDT 2020
-com.example\:ProjectApp\:pom\:\:0.0.1-SNAPSHOT=C\:\\Users\\Revature\\Documents\\gitrepos\\devops\\ProjectApp\\pom.xml
-com.example\:ProjectApp\:jar\:tests\:0.0.1-SNAPSHOT=C\:\\Users\\Revature\\Documents\\gitrepos\\devops\\ProjectApp\\target\\test-classes
-com.example\:ProjectApp\:jar\:\:0.0.1-SNAPSHOT=C\:\\Users\\Revature\\Documents\\gitrepos\\devops\\ProjectApp\\target\\classes
